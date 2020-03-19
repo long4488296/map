@@ -6,7 +6,7 @@
       "properties": {
         "name": "侯家庄乡",
         "level": "country",
-        "centroid": " [114.2219352722168, 37.33727165282734]"
+        "centroid": "[114.0707015991211,37.377796572371174]"
       },
       "geometry": {
         "type": "Polygon",
@@ -1249,7 +1249,7 @@
       "properties": {
         "name": "獐獏乡",
         "level": "country",
-        "centroid": " [114.2219352722168, 37.33727165282734]"
+        "centroid": "[114.2219352722168, 37.33727165282734]"
       },
       "geometry": {
         "type": "Polygon",
@@ -1788,17 +1788,6 @@
               37.36446124100185
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.2219352722168,
-          37.33727165282734
         ]
       }
     }
