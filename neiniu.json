@@ -1794,7 +1794,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "南赛乡",
+        "level": "country"
       },
       "geometry": {
         "type": "Polygon",
@@ -2286,7 +2287,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "柳林镇",
+        "level": "country"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2653,7 +2657,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "五郭店乡",
+        "level": "country"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3416,7 +3423,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "内丘镇",
+        "level": "country"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3947,7 +3957,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "官庄镇",
+        "level": "country"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
